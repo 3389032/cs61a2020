@@ -1,2 +1,2 @@
-# cs61a2020
+# CS 61A2020
 This is a learning note.
